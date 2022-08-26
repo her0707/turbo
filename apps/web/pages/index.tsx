@@ -9,6 +9,7 @@ export default function Web() {
       <a>테스트</a>
       <button>테테</button>
       <a>야야</a>
+      <div>테스트</div>
     </div>
   );
 }
